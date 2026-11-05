@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-pr",
+  "version": "1.0.0",
+  "description": "Use when writing a PR body.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "pr",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-pr.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-pr#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
